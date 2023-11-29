@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QUIZHUB</string>
+    <string name="genderSelect">Gender</string>
+    <string name="gradelevelSelect">Grade Level</string>
+</resources>
